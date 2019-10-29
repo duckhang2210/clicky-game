@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import './App.css';
 import Card from "./components/cardDisplay/Card";
 import Header from "./components/header/Header";
+import AlertArea from "./components/alertArea/AlertArea";
 import characters from "./character.json";
 
 
@@ -28,6 +29,9 @@ class App extends Component{
     return (
       <div className="container">
         <Header />
+        <AlertArea 
+          score= {this.state.score}
+        />
         <div className="row justify-content-md-center">
           {this.state.characters.map(char => (
             <Card 
