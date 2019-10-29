@@ -1,0 +1,8 @@
+.rounded {
+    width: 180px;
+    height: 180px;
+    cursor: pointer;
+}
+.rounded:hover{
+    border: 2px solid teal;
+}

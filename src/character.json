@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Walter White",
+        "image": "../images/walter-white.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Peekaboo Kid",
+        "image": "../images/peekaboo-kid.png"
+    },
+    {
+        "id": 3,
+        "name": "Gale",
+        "image": "../images/gale.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Gus Fring",
+        "image": "../images/Gus.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Hank Schrader",
+        "image": "../images/hank.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hector",
+        "image": "../images/hector.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Walter Jr",
+        "image": "../images/walter-jr.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Jesse Pinkman",
+        "image": "../images/jesse.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Marie",
+        "image": "../images/marie.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mike",
+        "image": "../images/mike.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Saul Goodman",
+        "image": "../images/saul.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Skyler White",
+        "image": "../images/skyler.jpg"
+    }
+
+]
