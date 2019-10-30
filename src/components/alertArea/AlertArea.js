@@ -2,9 +2,10 @@ import React from "react";
 
 function AlertArea(props) {
     return(
-    <div className="jumbotron">
-        <h1 className="display-4">Hello, world!</h1>
-        <p className="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+    <div>
+        <h1 style={{color: "white"}}>{props.alertMessage}</h1>
+        <p style={{color: "white"}}>Score: {props.score}</p>
+        <p style={{color: "white"}}>Top Score: {props.topScore}</p>
     </div>
     )
 }
