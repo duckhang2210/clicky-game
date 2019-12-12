@@ -14,5 +14,4 @@ This is a simple memorization and click game. The object of the game is to `clic
 ### Built with:
 * React
 * Javascript
-* HTML
 * CSS
